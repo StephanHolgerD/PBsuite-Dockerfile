@@ -8,8 +8,7 @@ download the right blasr version from:
 
 [blasr](https://github.com/BioInf-Wuerzburg/proovread/blob/master/util/blasr-1.3.1/blasr)
 
-* to build this dockerimage place the blasr binary (look for executable rights before) and the PBSuite_15.8.24.tgz file in your current working directory
-
+* to build this dockerimage place the blasr binary (look for executable rights before) and the PBSuite_15.8.24.tgz file in the clone of this git repository
 
 # build Dockerimage
 ```
