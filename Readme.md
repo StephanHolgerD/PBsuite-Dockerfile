@@ -1,5 +1,5 @@
-## Dockerfile to PBsuite image
-
+# pbsuite Docker
+Dockerfile to build pbsuite image
 download the PBsuite archive from:
 
 [PBsuite](https://sourceforge.net/p/pb-jelly/wiki/Home/)
